@@ -1,16 +1,52 @@
-## Hi there 👋
+# 👾 Kaiju
 
-<!--
-**KaijuInteractive/KaijuInteractive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Indie Game Developer | C++ • C# • Python
 
-Here are some ideas to get you started:
+I make weird games and weirder software at **Kaiju Interactive**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm an indie developer focused on learning game development by building
+real projects — from arcade games and narrative adventures to experimental
+engines and programming languages.
+
+## 🎮 Featured Projects
+
+### 🏺 Whispers of the Duat
+A branching Ancient Egyptian romance game where your choices shape your
+relationships with the gods.
+
+**C++ • Narrative Design • Branching Dialogue**
+
+### 🩲 Underwear Chess
+A fully playable underwear-themed chess game with multiple AI difficulty
+levels.
+
+**C++ • raylib • Game AI**
+
+### 🔽 Underwear Catcher
+A fast-paced arcade game about catching falling underwear.
+
+**C# • raylib**
+
+### 🩲 Underware Engine
+An experimental C++ game engine/framework built while exploring reusable
+game architecture.
+
+**C++ • raylib • Engine Development**
+
+### 🩲 Jockstrap
+A tiny underwear-themed programming language and interpreter built from
+scratch.
+
+**C++ • Lexer • Parser • Language Design**
+
+## 🔭 Also Into
+
+Astronomy • Radio Astronomy • Physics • Programming Languages
+
+## 🛠️ Currently Learning
+
+C++ • C# • Python • Rust • Game Engine Architecture
+
+## 🎮 Play My Games
+
+https://kaiju-plays.itch.io/
