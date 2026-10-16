@@ -49,4 +49,4 @@ C++ • C# • Python • Rust • Game Engine Architecture
 
 ## 🎮 Play My Games
 
-https://kaiju-plays.itch.io/
+https://kaiju-interactive.itch.io/
